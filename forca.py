@@ -1,1 +1,0 @@
-Usar o arquivo .txt junto com o código
